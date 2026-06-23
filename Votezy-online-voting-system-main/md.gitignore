@@ -1,0 +1,45 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse / STS
+/.settings/
+/.project
+/.classpath
+/bin/
+
+# IntelliJ / VS Code
+/.idea/
+/*.iml
+/.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / Secrets
+.env
+application.properties
+application.yml
+application-*.yml
+
+# Build
+*.war
+*.jar
+
+# Node
+node_modules/
+
+# Test reports
+/surefire-reports/
+/failsafe-reports/
+
+# Coverage
+/coverage/
+/jacoco/
+
+# Temp
+/tmp/
